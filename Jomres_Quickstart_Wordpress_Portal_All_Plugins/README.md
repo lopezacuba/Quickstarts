@@ -1,4 +1,4 @@
-Updated today to Jomres nightly version 9.22.0 with open source Plugin Manager v3.3.
+Updated today to Jomres 9.23.2 with open source Plugin Manager v3.3.
 
 These are the Jomres Quickstarts with ALL the Core Plugins including Plugin Manager so your website will never expire.
 
