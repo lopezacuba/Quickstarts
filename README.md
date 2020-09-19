@@ -1,6 +1,6 @@
 Quickstarts
 
-These are the Jomres Quickstarts with ALL the 170+ Core Plugins including open source Plugin Manager v3.3 so your website will never expire. All open source.
+These are the Jomres Quickstarts with ALL the 170+ Core Plugins including open source Plugin Manager v3.5 so your website will never expire. All open source.
 
 Just download all the files from a folder above, then double click on the EXE file. It will self extract a ZIP file with everything in it. Just upload the ZIP file to your server/account and extract it. Read the "Read Me 1st" file for install help.
 
