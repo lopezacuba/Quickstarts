@@ -23,3 +23,8 @@ Installation instructions and a video can be found here in the manual:
 https://www.jomres.net/manual/installation-and-upgrading-2/4-jomres-quickstart
 
 Jomres website: https://www.jomres.net/
+
+
+Jomres Quickstarts are also here and all the Core Plugins too:
+
+http://nwbooking.com/Jomres_Booking_System_Files/
