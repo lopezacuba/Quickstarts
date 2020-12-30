@@ -31,7 +31,7 @@ Jomres is now ALL Open Source. Even the Jomres Plugin Manager is now Open Source
 
 ==========================================
 
-#Jomres Quickstarts:
+# Jomres Quickstarts:
 
 https://github.com/lopezacuba/Quickstarts
 
@@ -39,7 +39,7 @@ http://www.nwbooking.com/Jomres_Booking_System_Files/
 
 ==========================================
 
-#Jomres Core Plugins:
+# Jomres Core Plugins:
 
 https://github.com/lopezacuba/core-plugins
 
@@ -47,7 +47,7 @@ http://www.nwbooking.com/Jomres_Booking_System_Files/
 
 ==========================================
 
-#ALL Jomres Plugin Managers
+# ALL Jomres Plugin Managers
 
 http://www.nwbooking.com/Jomres_Core_Plugin_Managers_All/
 
